@@ -15,7 +15,7 @@ function App() {
             <h2 className="text-3xl md:text-5xl font-bold text-yellow-400 whitespace-nowrap">
               ANSHUL RAGHUWANSHI
             </h2>
-          </div>
+          </div> 
           <button className="bg-yellow-400 text-black px-4 md:px-6 py-2 md:py-3 mt-5 text-lg md:text-xl hover:bg-yellow-300 transition duration-300 whitespace-nowrap">
             I'M A UI DEVELOPER
           </button>
